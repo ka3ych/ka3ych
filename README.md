@@ -1,6 +1,6 @@
-<div>
-  <p align="center">Hey! Tudo bem? 😃️</p>
-  <p align="center">Meu nome é <i>Karina Yang</i> e eu estudo Desenvolvimento Web na <a href="https://www.udemy.com/" target="_blank"><i>Udemy</i></a>. 😃️</p>
+# Hi there, I'm Karina <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+  <p align="center">Eu estudo Desenvolvimento Web na <a href="https://www.udemy.com/" target="_blank"><i>Udemy</i></a>. 😃️</p>
   <br>
 
 <div align="center">
