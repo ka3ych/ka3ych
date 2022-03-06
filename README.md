@@ -37,7 +37,7 @@
 ## Now Playing
 
 
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3?si=1ETXpcTeQsyglyuYVEO6VQ)
+[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr?si=Bs5Y_W8yRaGLyx1gmLetTg)
 
 ----
 <br><br>
