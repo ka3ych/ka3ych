@@ -1,5 +1,6 @@
 # Hi there, I'm Karina <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-  <p align="center">Eu estudo Desenvolvimento Web na <a href="https://www.udemy.com/" target="_blank"><i>Udemy</i></a>. 😃️</p>
+- Tenho 16 anos 😃️
+- Tentando sempre aprender algo novo
   <br>
 
 <div> <!--align="center"-->
