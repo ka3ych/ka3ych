@@ -15,14 +15,14 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div><br>
+</div><br><br>
 
 ## I'm a Student!!
 
 - 🌱 Eu estou estudando Desenvolvimento Web; na parte de JavaScript agora
 - 👯 Estou cursando o 2ºEM 
 - 🥅 Pretendo continuar na área; mas há também outra opção: medicina
-- ⚡ I love to listen to music and play volleyball
+- ⚡ Amo escutar músicas e tento jogar vôlei
 <br>
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
