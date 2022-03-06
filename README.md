@@ -4,18 +4,9 @@
   <p align="center">Hey! Tudo bem? 😃️</p>
   <p align="center">Meu nome é <i>Karina Yang</i> e eu estudo Desenvolvimento Web na <a href="https://www.udemy.com/" target="_blank"><i>Udemy</i></a>. 😃️</p>
   <br>
-  <p align="center">E quero te pedir para se inscrever no botão aqui abaixo e vir codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
-</div>
-
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/ka3ych">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
