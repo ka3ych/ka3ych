@@ -21,7 +21,7 @@
 ## I'm a Student!!
 
 - 🌱 Eu estou estudando Desenvolvimento Web; na parte de JavaScript agora
-- 👯 Estou cursando o 2ºEM 
+- 👯 Estou no 2º ano do EM 
 - 🥅 Pretendo continuar na área; mas há também outra opção: medicina
 - ⚡ Amo escutar músicas e tento jogar vôlei
 <br>
