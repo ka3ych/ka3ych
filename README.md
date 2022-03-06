@@ -1,5 +1,3 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="10%"  src="" ></p>
-
 <div>
   <p align="center">Hey! Tudo bem? 😃️</p>
   <p align="center">Meu nome é <i>Karina Yang</i> e eu estudo Desenvolvimento Web na <a href="https://www.udemy.com/" target="_blank"><i>Udemy</i></a>. 😃️</p>
