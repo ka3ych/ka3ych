@@ -17,6 +17,14 @@
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div><br>
 
+## I'm a Student!!
+
+- 🌱 Eu estou estudando Desenvolvimento Web; na parte de JavaScript agora
+- 👯 Estou cursando o 2ºEM 
+- 🥅 Pretendo continuar na área; mas há também outra opção: medicina
+- ⚡ I love to listen to music and play volleyball
+<br>
+
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
 <a href="https://twitter.com/KarinaYangChen2"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
