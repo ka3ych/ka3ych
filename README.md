@@ -2,7 +2,7 @@
 
 <div>
   <p align="center">Hey! Tudo bem? 😃️</p>
-  <p align="center">Meu nome é <i>Karina Yang</i> e eu estudo Desenvolvimento Web na <a href="https://www.udemy.com/"><i>Udemy</i></a>. 😃️</p>
+  <p align="center">Meu nome é <i>Karina Yang</i> e eu estudo Desenvolvimento Web na <a href="https://www.udemy.com/" target="_blank"><i>Udemy</i></a>. 😃️</p>
   <br>
   <p align="center">E quero te pedir para se inscrever no botão aqui abaixo e vir codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
 </div>
