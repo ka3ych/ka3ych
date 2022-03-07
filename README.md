@@ -18,11 +18,10 @@
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div><br><br>
 
-## I'm a Student!!
-
-- 🌱 Eu estou estudando Desenvolvimento Web; na parte de JavaScript agora
-- 👯 Estou no 2º ano do EM 
-- 🥅 Pretendo continuar na área; mas há também outra opção: medicina
+## About me !!
+- Sou do interior de **SP**
+- 🌱 Estudante de Desenvolvimento Web - na parte de JS agora
+- 👯 Estou no 2º ano do EM
 - ⚡ Amo escutar músicas e tento jogar vôlei
 <br>
 
