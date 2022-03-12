@@ -1,5 +1,4 @@
-# Hi there, I'm Karina <img src="https://giphy.com/gifs/deviantart-super-mario-12oufCB0MyZ1Go" >
-<iframe src="https://giphy.com/embed/12oufCB0MyZ1Go" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/deviantart-super-mario-12oufCB0MyZ1Go">via GIPHY</a></p>
+# Hi there, I'm Karina 🖤
 - Tenho 16 anos 😃️
 - Tentando sempre aprender algo novo
   <br>
