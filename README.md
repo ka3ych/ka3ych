@@ -1,4 +1,4 @@
-# Hi there, I'm Karina <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Hi there, I'm Karina <img src="https://giphy.com/embed/4zjsxv80Vq8eY" >
 - Tenho 16 anos 😃️
 - Tentando sempre aprender algo novo
   <br>
