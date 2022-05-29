@@ -9,21 +9,7 @@
    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka3ych&theme=dracula&hide_border=false&&layout=compact"/>-->
   </a>
 </div>
-<br><br>
-<div> <!-- align="center"valign="top" -->
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div><br><br>
 
-## About me !!
-- Sou do interior de **SP**
-- 🌱 Estudante de Desenvolvimento Web - na parte de JS agora
-- 👯 Estou no 2º ano do EM
-- ⚡ Amo escutar músicas e tento jogar vôlei
-<br>
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
