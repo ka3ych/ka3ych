@@ -1,15 +1,8 @@
-# Hi there, I'm Karina 🖤
+# Bom dia, I'm Karina 🖤
 - Tenho 16 anos 😃️
-- Tentando sempre aprender algo novo
+- Estudando sempre
   <br>
   <br>
-<div> <!--align="center"-->
-  <a href="https://github.com/ka3ych">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ka3ych&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka3ych&theme=dracula&hide_border=false&&layout=compact"/>-->
-  </a>
-</div>
-
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
