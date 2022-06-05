@@ -1,6 +1,6 @@
-# Bom dia, I'm Karina 🖤
-- Tenho 16 anos 😃️
-- Estudando sempre
+# Bom dia, Karina aq 🖤
+- 16 anos 😃️
+- Estudando 
 - ../SP
   <br>
   <br>
