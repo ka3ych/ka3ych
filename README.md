@@ -3,6 +3,7 @@
 - Estudando 
 - ../SP
   <br>
+  <br>
 <div align="left">
   <a href="https://twitter.com/kaka_ych"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -11,7 +12,7 @@
   <a href="https://open.spotify.com/user/31trdllsmgnktortsfht2yk5qzji?si=L_7UbCdXTNilUbwXmdZ-7g"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 <br>
-<div align="center">
+<div align="left">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
