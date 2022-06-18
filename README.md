@@ -3,7 +3,7 @@
   <br>Hi, there! Karina aqui! ️
 </h1>
 <div align="center">
-😃️ 16 anos 
+16 anos 
 - Estudando 
 - Interior de SP
   </div>
