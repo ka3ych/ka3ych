@@ -3,9 +3,8 @@
   <br>Hi, there! Karina aqui! ️
 </h1>
 <div align="center">
-16 anos 
-- Estudando 
-- Interior de SP
+18y 
+- Sistemas de informação - USP
   </div>
   <br>
   <br>
