@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif" width="height: 39; position: center;">
-  <br>Hi, there! Karina aqui! ️
+  <br>Hi! Karina aqui! ️
 </h1>
 <div align="center">
 18y 
