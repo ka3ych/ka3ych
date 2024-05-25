@@ -4,6 +4,8 @@ Olá, tenho 18 anos, e me apaixonando de pouco em pouco todos os dias pela área
 - 💡 Foco em desenvolvimento web
 - 📚 No momento, estudando C e React
 
+<br><br><br>
+
 <div align="center">
   <a href="https://twitter.com/_karina_Zzz/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/kaa_82/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
